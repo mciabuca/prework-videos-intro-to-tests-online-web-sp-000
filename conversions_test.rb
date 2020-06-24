@@ -1,4 +1,4 @@
-requite_relative './conversions.rb'
+require_relative './conversions.rb'
 
 puts "ounces_to_grams when given 0, returns 0.0"
 
